@@ -28,7 +28,7 @@ def banner():
 	printf "\e[101m\e[1;77m\t Disclaimer: Dont Use to Bully or Tease,\n\tthe Developer of this Tool is \e[0m\n\t"
 	printf "\e[101m\e[1;77m Monitoring the Statistics & Frequencies \e[0m\n"
 	printf "\n"
-	printf ("------------------------------------------------------------------\n")
+	printf("------------------------------------------------------------------")
 	printf "\n"
 	''')
 
